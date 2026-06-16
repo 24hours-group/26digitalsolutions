@@ -1,0 +1,1013 @@
+{
+  "marketing": {
+    "blurb": "Twenty-six disciplines named for the 26 letters of the marketing alphabet — every channel, every signal, every lever a brand needs to capture and convert demand. Five categories, one compounding system.",
+    "categories": [
+      {
+        "num": "01",
+        "title": "Performance & Paid Media",
+        "color": "paid",
+        "intro": "Precision-targeted paid acquisition across every major platform — architected around your revenue model, powered by AI bidding, and optimized to your exact CAC thresholds.",
+        "services": [
+          {
+            "num": "01",
+            "title": "PPC Advertising",
+            "description": "Google &amp; Microsoft Ads built around your unit economics — bidding, structure, and creative tied directly to revenue, not vanity metrics.",
+            "example": "Restructured a $400K/mo Google Ads account around contribution margin segments — blended ROAS 1.8× → 4.6× in 90 days."
+          },
+          {
+            "num": "02",
+            "title": "Display Advertising",
+            "description": "Programmatic display and rich media across premium inventory — audience-first targeting with dynamic creative optimization at scale.",
+            "example": "DV360 prospecting program for a fintech reduced CPL by 38% while expanding reach to 4 new ICP segments."
+          },
+          {
+            "num": "03",
+            "title": "Mobile Marketing",
+            "description": "Mobile-first campaigns spanning in-app advertising, SMS, push, and mobile DSPs — with deep-link attribution and device-level analytics.",
+            "example": "SKAdNetwork-aware iOS strategy for a wellness app drove 2.4× install volume at flat CPI post-ATT."
+          },
+          {
+            "num": "04",
+            "title": "Amazon &amp; Marketplace Growth",
+            "description": "Full Amazon DSP and Sponsored Ads management — keyword strategy, listing optimization, and Amazon Attribution for marketplace brands.",
+            "example": "Took a CPG brand from $80K to $620K monthly Amazon revenue in 7 months without raising blended ACoS."
+          },
+          {
+            "num": "05",
+            "title": "YouTube &amp; Video Advertising",
+            "description": "Full-funnel video strategy across YouTube, CTV, and OLV — from view-through-driven brand campaigns to direct-response action ads.",
+            "example": "Launched a 6-asset YouTube Action campaign for a SaaS brand — added $1.2M ARR pipeline at $87 CAC."
+          }
+        ]
+      },
+      {
+        "num": "02",
+        "title": "AI &amp; Intelligence",
+        "color": "ai",
+        "intro": "Custom ML models, generative content systems, and autonomous agents that handle the work humans shouldn't — at machine speed, with consistent quality, around the clock.",
+        "services": [
+          {
+            "num": "06",
+            "title": "Marketing Data Architecture",
+            "description": "First-party data infrastructure — CDPs, data lakes, and event-tracking schemas — so you own your signals and never rely on a platform's black box.",
+            "example": "Built a Snowflake + Segment stack for a DTC brand consolidating 11 data sources into one source of truth."
+          },
+          {
+            "num": "07",
+            "title": "AI Chatbot &amp; Conversational",
+            "description": "AI-powered chat across web, WhatsApp, and Messenger — qualifying leads, answering high-intent queries, and booking meetings 24/7 at scale.",
+            "example": "Deployed a Claude-powered concierge agent for a B2B SaaS — booked 412 demos in Q1 without a human SDR involved."
+          },
+          {
+            "num": "08",
+            "title": "Marketing Automation Architecture",
+            "description": "Sophisticated workflows across HubSpot, Marketo, or ActiveCampaign — lead scoring, nurture sequences, and trigger-based campaigns that run autonomously.",
+            "example": "Rebuilt a HubSpot workspace for a 50-person SaaS — lead-to-MQL time dropped from 9 days to 14 hours."
+          },
+          {
+            "num": "09",
+            "title": "Generative AI Content Systems",
+            "description": "Custom LLM-powered content engines that produce on-brand output at speed — blog posts to ad copy, trained on your voice and continuously optimized.",
+            "example": "Trained a fine-tuned content engine for a media client producing 80 articles/month at 1/6 the previous cost."
+          },
+          {
+            "num": "10",
+            "title": "Predictive Lead Scoring",
+            "description": "ML models trained on your CRM data to rank leads by conversion likelihood — so sales spends time only on accounts most likely to close.",
+            "example": "Predictive model for an enterprise SaaS lifted close rate on top-quartile leads from 8% to 31%."
+          },
+          {
+            "num": "11",
+            "title": "AI Personalization Engines",
+            "description": "Recommendation and personalization layers across web, email, and ads — the Netflix model applied to your customer experience at every touchpoint.",
+            "example": "On-site personalization for a fashion DTC brand lifted AOV by 18% and repeat-purchase rate by 27%."
+          }
+        ]
+      },
+      {
+        "num": "03",
+        "title": "Brand &amp; Creative",
+        "color": "brand",
+        "intro": "The strategic and design foundation that determines whether downstream tactics succeed or fail — positioning, identity, and conversion-grade creative built to perform, not just look good.",
+        "services": [
+          {
+            "num": "12",
+            "title": "Brand Strategy &amp; Positioning",
+            "description": "Sharp, defensible market positioning rooted in customer research and competitive intelligence — the foundation every paid dollar leverages.",
+            "example": "Repositioned a Series-A health-tech startup around clinician outcomes — pipeline velocity 2.3× in 4 months."
+          },
+          {
+            "num": "13",
+            "title": "UX/UI Design for Funnels",
+            "description": "Conversion-grade landing pages, checkout flows, and product UX — designed against real session recordings, not best-practice mood boards.",
+            "example": "Rebuilt a SaaS pricing page based on 600 hours of session replay — free-trial signups +71% in 30 days."
+          },
+          {
+            "num": "14",
+            "title": "Brand Identity &amp; Visual Systems",
+            "description": "Distinctive identity systems — logo, type, color, voice — built to scale across paid creative, social, product, and packaging.",
+            "example": "Designed a complete identity system for a B2B fintech rebrand, deployed across 14 channels in 6 weeks."
+          },
+          {
+            "num": "15",
+            "title": "Motion Graphics &amp; Animation",
+            "description": "Performance-grade motion creative — from 6-second hooks to 60-second explainers — engineered for the format and platform that pays back.",
+            "example": "Produced 38 short-form motion variants for a DTC brand — top performer drove 4.1× the account average ROAS."
+          }
+        ]
+      },
+      {
+        "num": "04",
+        "title": "Content &amp; Lifecycle",
+        "color": "content",
+        "intro": "The compounding channels — content that builds topical authority, lifecycle programs that turn lists into revenue engines, and e-commerce growth systems that scale at zero fixed cost.",
+        "services": [
+          {
+            "num": "16",
+            "title": "Content Marketing &amp; SEO",
+            "description": "Editorial-grade content tied to commercial intent — built around topic clusters and search demand, not arbitrary keyword lists.",
+            "example": "Took a B2B SaaS from 4K to 187K monthly organic sessions in 18 months. Pipeline contribution: $4.2M ARR."
+          },
+          {
+            "num": "17",
+            "title": "Social Media Marketing",
+            "description": "Brand-led organic social — TikTok, Instagram, LinkedIn — with content calendars built against actual platform mechanics, not stock advice.",
+            "example": "Built a TikTok-first program for a beverage brand — 2.1M followers and 4 viral product launches in 12 months."
+          },
+          {
+            "num": "18",
+            "title": "Email Marketing",
+            "description": "Lifecycle email programs — welcome flows, abandonment, win-back, post-purchase — engineered for revenue per recipient, not opens.",
+            "example": "Klaviyo overhaul for a DTC brand lifted email-attributed revenue from 14% to 31% of total in 60 days."
+          },
+          {
+            "num": "19",
+            "title": "Affiliate Marketing",
+            "description": "Performance affiliate programs — partner recruitment, commission architecture, fraud prevention — that scale at zero fixed cost.",
+            "example": "Launched an Impact-managed program for a DTC apparel brand — $1.8M incremental revenue in year one."
+          },
+          {
+            "num": "20",
+            "title": "E-commerce Growth Strategy",
+            "description": "End-to-end DTC growth — from acquisition mix to merchandising to lifecycle — managed against contribution margin, not vanity GMV.",
+            "example": "Doubled net contribution margin for an 8-figure DTC brand in 9 months while holding revenue flat — sustainable scale."
+          },
+          {
+            "num": "21",
+            "title": "Shopify / WooCommerce Optimization",
+            "description": "Platform-deep CRO — checkout, PDP, search, bundling — built on actual session data, not best-practice articles.",
+            "example": "Shopify checkout redesign for a beauty DTC brand reduced abandonment by 24% and lifted AOV by $11."
+          },
+          {
+            "num": "22",
+            "title": "Subscription &amp; Retention",
+            "description": "Subscription program design and retention engineering — pricing, packaging, churn modeling, and win-back — focused on LTV expansion.",
+            "example": "Redesigned subscription tiers for a wellness brand — month-3 churn dropped from 22% to 9%."
+          },
+          {
+            "num": "23",
+            "title": "Marketplace Launch &amp; Management",
+            "description": "Cross-marketplace strategy — Amazon, Walmart, Target+, TikTok Shop — managed as a coordinated portfolio, not a series of side projects.",
+            "example": "Launched a CPG brand across 4 marketplaces simultaneously — $2.4M aggregate Q1 revenue from a standing start."
+          }
+        ]
+      },
+      {
+        "num": "05",
+        "title": "Strategy &amp; Consulting",
+        "color": "strategy",
+        "intro": "Senior strategic leadership for inflection moments — pre-Series B, market entry, repositioning, or scaling the in-house function. Embedded operators, not deck-makers.",
+        "services": [
+          {
+            "num": "24",
+            "title": "Revenue Operations (RevOps)",
+            "description": "End-to-end revenue tooling, attribution, forecasting, and reporting — connecting marketing, sales, and finance under one model.",
+            "example": "Rebuilt the RevOps stack for a $40M ARR SaaS — forecast accuracy from ±28% to ±6% in two quarters."
+          },
+          {
+            "num": "25",
+            "title": "Fractional CMO Services",
+            "description": "Senior marketing leadership embedded for 6–18 months — running the function, building the team, and handing it back stronger than you found it.",
+            "example": "9-month fractional CMO engagement at a Series-B health-tech — built and hired a 12-person marketing function from scratch."
+          },
+          {
+            "num": "26",
+            "title": "Go-to-Market Strategy",
+            "description": "End-to-end GTM design — ICP, positioning, channel mix, pricing, packaging, and the operating model to execute it.",
+            "example": "Designed the US GTM for a European SaaS entering the market — first-quarter pipeline beat plan by 64%."
+          }
+        ]
+      },
+      {
+        "num": "01",
+        "title": "Web &amp; App Development",
+        "color": "tech",
+        "intro": "Production-grade websites, landing pages, web apps, e-commerce storefronts, and mobile apps — engineered to convert paid traffic and operate at scale.",
+        "services": [
+          {
+            "num": "01",
+            "title": "Custom Web Application Development",
+            "description": "Bespoke client portals, internal ops tools, workflow platforms, booking systems — encoding your exact processes into software you own.",
+            "example": "Built an ops web app for a multi-location auto repair chain — throughput +34% in month one without adding staff."
+          },
+          {
+            "num": "02",
+            "title": "Website Design &amp; Development",
+            "description": "Conversion-focused sites on Next.js, Webflow, or WordPress — Core Web Vitals, accessibility, and SEO baked into the foundation.",
+            "example": "Rebuilt a consulting firm's website on Next.js — organic traffic +180% in 6 months, inbound consult requests +340%."
+          },
+          {
+            "num": "03",
+            "title": "Landing Page &amp; Funnel Development",
+            "description": "Purpose-built, A/B-test-ready pages for paid traffic — message-match from ad to page, single objective, zero exit paths.",
+            "example": "Built 6 campaign-specific pages for a roofing company — conversion 1.3% → 5.8%; CPL $210 → $46."
+          },
+          {
+            "num": "04",
+            "title": "E-commerce Website Development",
+            "description": "Shopify, WooCommerce, or headless commerce — custom themes, ERP/3PL integration, subscription architecture, and mobile-first speed.",
+            "example": "Rebuilt a furniture DTC store on Shopify 2.0 — mobile load 6.2s → 1.8s; mobile conversion 0.7% → 2.4%."
+          },
+          {
+            "num": "05",
+            "title": "Custom Client &amp; Customer Portals",
+            "description": "Branded login portals where clients access reports, submit requests, track projects, and manage subscriptions — replacing email chains.",
+            "example": "Built a portal for an 80-client agency — report-related support tickets dropped 91%, CSAT up 28%."
+          },
+          {
+            "num": "06",
+            "title": "Mobile App Development (iOS &amp; Android)",
+            "description": "Native-quality apps in React Native or Flutter — full lifecycle from product definition through App Store submission and CI/CD.",
+            "example": "Built iOS/Android apps for a home services co. — 58% customer adoption, 42% phone-booking decline, $18K/mo cost cut."
+          },
+          {
+            "num": "07",
+            "title": "SaaS Product Build &amp; MVP Development",
+            "description": "Software products from concept to revenue — architecture, UX, full-stack, payments, onboarding, and launch strategy as one team.",
+            "example": "Built a $99/mo legal-tech MVP in 9 weeks for $68K — 340 signups in 30 days, 48% trial-to-paid."
+          }
+        ]
+      },
+      {
+        "num": "02",
+        "title": "AI &amp; Automation",
+        "color": "tech",
+        "intro": "Voice agents, conversational bots, and end-to-end AI workflows that replace repetitive knowledge work — at machine speed, with consistent quality, around the clock.",
+        "services": [
+          {
+            "num": "08",
+            "title": "Voice AI Agent Development",
+            "description": "AI agents that handle inbound and outbound phone calls — qualifying leads, booking appointments, escalating when needed. Built on Vapi, ElevenLabs, Bland.",
+            "example": "Deployed a voice AI for a med-spa — missed-call rate 34% → 3%; $14,200 in booked appointments month one."
+          },
+          {
+            "num": "09",
+            "title": "AI Chat &amp; Conversational Bots",
+            "description": "Custom chat agents trained on your knowledge base — deployed across web, WhatsApp, IG DMs, SMS — that respond like your best team member.",
+            "example": "Built a chat agent for a B2B SaaS — resolved 74% of conversations without human escalation; 40% drop in pre-sales tickets."
+          },
+          {
+            "num": "10",
+            "title": "AI Workflow &amp; Process Automation",
+            "description": "LLM-powered pipelines for invoice processing, contract review, document parsing, classification — replacing repetitive analyst work.",
+            "example": "Built an AI memo-processing pipeline for a real-estate fund — analyst-hours per month 600 → 40 with same quality."
+          }
+        ]
+      },
+      {
+        "num": "03",
+        "title": "CRM &amp; Integrations",
+        "color": "tech",
+        "intro": "Custom CRM builds, platform migrations, API development, and marketing automation infrastructure — connecting your systems into a single source of truth.",
+        "services": [
+          {
+            "num": "11",
+            "title": "CRM Development &amp; Customization",
+            "description": "Custom CRM builds and deep platform configuration — HubSpot, Salesforce, Zoho, GoHighLevel — designed around your actual sales process.",
+            "example": "Redesigned Salesforce for an 85-rep cleaning company — adoption 34% → 94%; first accurate forecast in 3 years."
+          },
+          {
+            "num": "12",
+            "title": "CRM Integration &amp; Migration",
+            "description": "Zero-downtime platform migrations and bidirectional integrations — preserving every record, every relationship, every history field.",
+            "example": "Migrated 6 years / 14K deals / 200K activities from HubSpot to Salesforce over one weekend — zero records lost."
+          },
+          {
+            "num": "13",
+            "title": "API Development &amp; Third-Party Integrations",
+            "description": "Custom REST/GraphQL APIs and webhooks connecting your stack — eliminating manual export-import workflows that drain staff hours.",
+            "example": "Built a central integration layer for a franchisor — 12 weekly hours of manual data transfer eliminated."
+          },
+          {
+            "num": "14",
+            "title": "Marketing Automation Platform Build",
+            "description": "Full architecture on HubSpot, ActiveCampaign, Klaviyo, Marketo, or Pardot — scoring, nurture flows, segmentation, and CRM sync.",
+            "example": "Activated a stagnant HubSpot for a B2B firm — $0 → $1.8M tracked marketing-attributed pipeline in 90 days."
+          }
+        ]
+      },
+      {
+        "num": "04",
+        "title": "Data &amp; Reporting",
+        "color": "tech",
+        "intro": "Real-time dashboards, database architecture, and analytics infrastructure — turning fragmented data into the decision-grade signal your leadership team needs.",
+        "services": [
+          {
+            "num": "15",
+            "title": "Custom Reporting &amp; BI Dashboards",
+            "description": "Executive dashboards in Looker Studio, Power BI, Tableau, or custom web — built around the decisions that matter, not the data that's easy to export.",
+            "example": "Built a Looker Studio dashboard for an 18-location restaurant group — caught food-cost anomalies 5 days earlier; saved ~$28K/mo."
+          },
+          {
+            "num": "16",
+            "title": "Database Design &amp; Architecture",
+            "description": "PostgreSQL, MongoDB, BigQuery, Snowflake — schema design, indexing, query optimization, migration, and DR architecture.",
+            "example": "Optimized database for a SaaS analytics platform — load times 18–45s → under 2s; annual churn 35% → 18%."
+          },
+          {
+            "num": "17",
+            "title": "Analytics &amp; Tracking Implementation",
+            "description": "GA4, GTM, Meta and TikTok Pixel, server-side tracking, and Conversions API — so your ad platforms train on accurate signals.",
+            "example": "Server-side tracking rebuild for an e-comm brand — conversion data completeness 40% → 94%; CPA −31% in 6 weeks."
+          }
+        ]
+      },
+      {
+        "num": "05",
+        "title": "Contact Center &amp; Hosting",
+        "color": "tech",
+        "intro": "Cloud contact center setup, VoIP and telephony, plus ongoing managed hosting and maintenance — the infrastructure that keeps the business running 24/7.",
+        "services": [
+          {
+            "num": "18",
+            "title": "Contact Center Software Setup",
+            "description": "Five9, Genesys, Aircall, Twilio Flex, RingCentral — IVR design, routing, scripting, recording, supervision dashboards, and CRM integration.",
+            "example": "Reconfigured Aircall for a pest-control company — abandon rate 28% → 6%; average handle time −22%."
+          },
+          {
+            "num": "19",
+            "title": "VoIP &amp; Telephony Implementation",
+            "description": "Cloud VoIP system design — number provisioning, SIP trunks, call queues, ring groups, IVR, and CRM integration with zero-downtime migration.",
+            "example": "Migrated a 200-unit property management company from legacy PBX to cloud VoIP over one weekend — zero downtime; 30% time-on-call reduction."
+          },
+          {
+            "num": "20",
+            "title": "Software Maintenance, Support &amp; Hosting",
+            "description": "Ongoing managed hosting, security patching, dependency updates, performance monitoring, and SLA-backed bug resolution.",
+            "example": "Patched two high-severity vulnerabilities for a healthcare client — prevented estimated $500K–$1M HIPAA exposure."
+          }
+        ]
+      },
+      {
+        "num": "01",
+        "title": "Inbound &amp; Reception",
+        "color": "dispatch",
+        "intro": "Trained agents handling every inbound interaction — first impression, qualification, escalation, multilingual coverage, and white-glove VIP handling.",
+        "services": [
+          {
+            "num": "01",
+            "title": "Inbound Call Handling &amp; Reception",
+            "description": "Live agents answering in your brand voice — handling inquiries, routing to the right team, capturing data with real-time CRM logging.",
+            "example": "Inbound agents for a Miami luxury hotel recovered ~$82K/month in direct booking inquiries previously lost to voicemail."
+          },
+          {
+            "num": "02",
+            "title": "24/7 After-Hours Answering",
+            "description": "Live or AI agents covering nights, weekends, holidays — taking messages, handling urgent inquiries, and triggering on-call escalations.",
+            "example": "After-hours service for an HVAC company captured $42K/month in emergency revenue previously lost between 6pm–8am."
+          },
+          {
+            "num": "03",
+            "title": "Live Agent Lead Qualification",
+            "description": "Structured qualification at first contact — budget, timeline, fit, authority — only pre-qualified prospects reach your sales team.",
+            "example": "For a solar installer: sales-team capacity effectively doubled; close rate on contacted leads 12% → 28%."
+          },
+          {
+            "num": "04",
+            "title": "Multilingual Inbound Support",
+            "description": "Spanish, French, Portuguese, Mandarin, Arabic, Tagalog, Hindi — native-speaking agents serving callers in their preferred language.",
+            "example": "Spanish-language inbound for an LA dental group — Spanish-speaking new-patient bookings reached 22% of total in 4 months."
+          },
+          {
+            "num": "05",
+            "title": "Escalation &amp; VIP Client Handling",
+            "description": "Senior agents, white-glove protocols, 30-min response SLA, and direct executive escalation paths for your highest-value accounts.",
+            "example": "VIP protocol for a property mgmt firm protecting $3.2M of $4.8M ARR — zero Tier-1 churn over 18 months."
+          }
+        ]
+      },
+      {
+        "num": "02",
+        "title": "AI Voice Agents",
+        "color": "dispatch",
+        "intro": "Always-on voice AI that handles triage, booking, and outbound follow-up — picking up every call instantly, no matter the volume or hour.",
+        "services": [
+          {
+            "num": "06",
+            "title": "AI Voice — Inbound Triage",
+            "description": "Always-on AI that answers every call instantly, understands intent via NLP, resolves routine queries, and routes complex calls with full context.",
+            "example": "AI triage for a national insurance brokerage — hold time 8min → 2min; abandon rate 22% → 4%; agent capacity +23%."
+          },
+          {
+            "num": "07",
+            "title": "AI Voice — Appointment Booking",
+            "description": "Fully automated booking, confirming, rescheduling, and canceling — integrated with your scheduling platform, working 24/7.",
+            "example": "Booking AI for a multi-location physio practice — handled 79% of booking calls; weekend missed-calls fell to zero."
+          },
+          {
+            "num": "08",
+            "title": "AI Voice — Outbound Follow-Up",
+            "description": "AI-powered outbound calling at scale — lead follow-up, appointment confirmations, post-service surveys, and reactivation campaigns.",
+            "example": "AI outbound for a roofing company — every uncontacted lead reached within 4 hours; inspection bookings +187% month one."
+          }
+        ]
+      },
+      {
+        "num": "03",
+        "title": "Outbound &amp; Sales",
+        "color": "dispatch",
+        "intro": "Live agents executing the high-conversion outbound work that closes the gap between leads generated and revenue booked.",
+        "services": [
+          {
+            "num": "09",
+            "title": "Live Quote Generation &amp; Estimation",
+            "description": "Trained agents quoting in real-time over the phone — collecting job details, calculating to your pricing model, booking the next step before they hang up.",
+            "example": "Quote agents for a landscaper — average time-to-quote 31hrs → 15min; inquiry-to-booking 28% → 51%."
+          },
+          {
+            "num": "10",
+            "title": "Outbound Follow-Up &amp; Lead Nurture",
+            "description": "Structured 5-touch outbound sequences — phone, voicemail, scripted persistence — closing the gap between leads generated and leads contacted.",
+            "example": "Auto body shop: web lead-to-job conversion 21% → 47%; +$39K/month from same lead volume."
+          },
+          {
+            "num": "11",
+            "title": "Customer Satisfaction &amp; Callback Surveys",
+            "description": "Post-service CSAT/NPS calls — flagging unhappy customers for recovery and routing happy ones to review generation.",
+            "example": "Pool service company: Google rating 3.8★/42 reviews → 4.6★/180 reviews in 6 months; monthly churn 14% → 8%."
+          },
+          {
+            "num": "12",
+            "title": "Sales Closing &amp; Upsell Calls",
+            "description": "Senior closing agents handling the proposal-to-commitment stage — structured objection handling, tiered packages, and trained negotiation.",
+            "example": "Closing agents for a high-end kitchen renovation co. — proposal close rate 12% → 27% in 8 weeks."
+          }
+        ]
+      },
+      {
+        "num": "04",
+        "title": "Scheduling &amp; Field Dispatch",
+        "color": "dispatch",
+        "intro": "Real-time coordination between customers, schedules, and field technicians — keeping fleets at 90% capacity and customers informed every step.",
+        "services": [
+          {
+            "num": "13",
+            "title": "Appointment Booking &amp; Scheduling",
+            "description": "Live or AI booking with calendar sync, automated confirmations, reminder sequences, and no-show prevention protocols.",
+            "example": "Mobile dog grooming co. — no-show rate 18% → 4%; zero double-bookings in 12 months."
+          },
+          {
+            "num": "14",
+            "title": "Technician Dispatch &amp; Coordination",
+            "description": "Real-time field dispatch — assigning by location, skill, and equipment with live ETA communication and dynamic re-routing.",
+            "example": "Electrical contractor (22 techs) — unproductive travel 28mi → 11mi/tech/day; ~$4,200/wk fuel + 18 service-hours/day."
+          },
+          {
+            "num": "15",
+            "title": "Field Service Job Management",
+            "description": "Digital job cards, tech briefings, parts ordering, photo documentation, completion sign-off, and automatic invoice triggering.",
+            "example": "Commercial HVAC service co. — invoice cycle 12 days → 24 hrs; +$18.4K/mo in previously-unbilled extras."
+          },
+          {
+            "num": "16",
+            "title": "Emergency &amp; Priority Dispatch",
+            "description": "Rapid-response dispatch with severity triage, nearest-tech routing, on-call coordination, and SLA-tracked response time reporting.",
+            "example": "Plumbing company: emergency response 94min → 52min; emergency-to-recurring conversion 28% → 61%."
+          }
+        ]
+      },
+      {
+        "num": "05",
+        "title": "Quality &amp; Operations",
+        "color": "dispatch",
+        "intro": "The infrastructure layer — chat, QA monitoring, post-call admin, and complete operational design — that keeps every contact at consistent quality.",
+        "services": [
+          {
+            "num": "17",
+            "title": "Live Chat &amp; SMS Support",
+            "description": "Human agents managing website chat and business SMS — pre-sales, support, booking confirmations, with consistent brand tone.",
+            "example": "Landscaping company chat agents 7am–9pm — lead capture from same site traffic +330%."
+          },
+          {
+            "num": "18",
+            "title": "Call Recording, Monitoring &amp; QA",
+            "description": "Recording, real-time monitoring, structured QA scoring, compliance documentation, and weekly performance coaching.",
+            "example": "Caught a regulatory exposure of $2.4M for a financial services co. within 10 days of QA program launch."
+          },
+          {
+            "num": "19",
+            "title": "CRM Data Entry &amp; Post-Call Admin",
+            "description": "Standardized post-call logging, contact-record updates, follow-up task creation, and CRM hygiene across every interaction.",
+            "example": "Home warranty co. — CRM completeness 18% → 94% in 60 days; agent follow-up conversion +31%."
+          },
+          {
+            "num": "20",
+            "title": "Custom Dispatch Workflow Design",
+            "description": "Complete operational architecture — scripts, routing logic, escalation trees, training, and QA rubrics — delivered turnkey.",
+            "example": "Pest control franchise: 4 new locations launched with day-one quality scores matching 3-year-old legacy locations."
+          }
+        ]
+      }
+    ]
+  },
+  "technology": {
+    "blurb": "Twenty engineering services — custom software, AI infrastructure, integrations, data systems, and contact-center technology — that turn your marketing inputs into measurable, ownable assets. Built to your spec, hosted long-term, and architected to scale.",
+    "categories": [
+      {
+        "num": "01",
+        "title": "Web &amp; App Development",
+        "color": "tech",
+        "intro": "Production-grade websites, landing pages, web apps, e-commerce storefronts, and mobile apps — engineered to convert paid traffic and operate at scale.",
+        "services": [
+          {
+            "num": "01",
+            "title": "Custom Web Application Development",
+            "description": "Bespoke client portals, internal ops tools, workflow platforms, booking systems — encoding your exact processes into software you own.",
+            "example": "Built an ops web app for a multi-location auto repair chain — throughput +34% in month one without adding staff."
+          },
+          {
+            "num": "02",
+            "title": "Website Design &amp; Development",
+            "description": "Conversion-focused sites on Next.js, Webflow, or WordPress — Core Web Vitals, accessibility, and SEO baked into the foundation.",
+            "example": "Rebuilt a consulting firm's website on Next.js — organic traffic +180% in 6 months, inbound consult requests +340%."
+          },
+          {
+            "num": "03",
+            "title": "Landing Page &amp; Funnel Development",
+            "description": "Purpose-built, A/B-test-ready pages for paid traffic — message-match from ad to page, single objective, zero exit paths.",
+            "example": "Built 6 campaign-specific pages for a roofing company — conversion 1.3% → 5.8%; CPL $210 → $46."
+          },
+          {
+            "num": "04",
+            "title": "E-commerce Website Development",
+            "description": "Shopify, WooCommerce, or headless commerce — custom themes, ERP/3PL integration, subscription architecture, and mobile-first speed.",
+            "example": "Rebuilt a furniture DTC store on Shopify 2.0 — mobile load 6.2s → 1.8s; mobile conversion 0.7% → 2.4%."
+          },
+          {
+            "num": "05",
+            "title": "Custom Client &amp; Customer Portals",
+            "description": "Branded login portals where clients access reports, submit requests, track projects, and manage subscriptions — replacing email chains.",
+            "example": "Built a portal for an 80-client agency — report-related support tickets dropped 91%, CSAT up 28%."
+          },
+          {
+            "num": "06",
+            "title": "Mobile App Development (iOS &amp; Android)",
+            "description": "Native-quality apps in React Native or Flutter — full lifecycle from product definition through App Store submission and CI/CD.",
+            "example": "Built iOS/Android apps for a home services co. — 58% customer adoption, 42% phone-booking decline, $18K/mo cost cut."
+          },
+          {
+            "num": "07",
+            "title": "SaaS Product Build &amp; MVP Development",
+            "description": "Software products from concept to revenue — architecture, UX, full-stack, payments, onboarding, and launch strategy as one team.",
+            "example": "Built a $99/mo legal-tech MVP in 9 weeks for $68K — 340 signups in 30 days, 48% trial-to-paid."
+          }
+        ]
+      },
+      {
+        "num": "02",
+        "title": "AI &amp; Automation",
+        "color": "tech",
+        "intro": "Voice agents, conversational bots, and end-to-end AI workflows that replace repetitive knowledge work — at machine speed, with consistent quality, around the clock.",
+        "services": [
+          {
+            "num": "08",
+            "title": "Voice AI Agent Development",
+            "description": "AI agents that handle inbound and outbound phone calls — qualifying leads, booking appointments, escalating when needed. Built on Vapi, ElevenLabs, Bland.",
+            "example": "Deployed a voice AI for a med-spa — missed-call rate 34% → 3%; $14,200 in booked appointments month one."
+          },
+          {
+            "num": "09",
+            "title": "AI Chat &amp; Conversational Bots",
+            "description": "Custom chat agents trained on your knowledge base — deployed across web, WhatsApp, IG DMs, SMS — that respond like your best team member.",
+            "example": "Built a chat agent for a B2B SaaS — resolved 74% of conversations without human escalation; 40% drop in pre-sales tickets."
+          },
+          {
+            "num": "10",
+            "title": "AI Workflow &amp; Process Automation",
+            "description": "LLM-powered pipelines for invoice processing, contract review, document parsing, classification — replacing repetitive analyst work.",
+            "example": "Built an AI memo-processing pipeline for a real-estate fund — analyst-hours per month 600 → 40 with same quality."
+          }
+        ]
+      },
+      {
+        "num": "03",
+        "title": "CRM &amp; Integrations",
+        "color": "tech",
+        "intro": "Custom CRM builds, platform migrations, API development, and marketing automation infrastructure — connecting your systems into a single source of truth.",
+        "services": [
+          {
+            "num": "11",
+            "title": "CRM Development &amp; Customization",
+            "description": "Custom CRM builds and deep platform configuration — HubSpot, Salesforce, Zoho, GoHighLevel — designed around your actual sales process.",
+            "example": "Redesigned Salesforce for an 85-rep cleaning company — adoption 34% → 94%; first accurate forecast in 3 years."
+          },
+          {
+            "num": "12",
+            "title": "CRM Integration &amp; Migration",
+            "description": "Zero-downtime platform migrations and bidirectional integrations — preserving every record, every relationship, every history field.",
+            "example": "Migrated 6 years / 14K deals / 200K activities from HubSpot to Salesforce over one weekend — zero records lost."
+          },
+          {
+            "num": "13",
+            "title": "API Development &amp; Third-Party Integrations",
+            "description": "Custom REST/GraphQL APIs and webhooks connecting your stack — eliminating manual export-import workflows that drain staff hours.",
+            "example": "Built a central integration layer for a franchisor — 12 weekly hours of manual data transfer eliminated."
+          },
+          {
+            "num": "14",
+            "title": "Marketing Automation Platform Build",
+            "description": "Full architecture on HubSpot, ActiveCampaign, Klaviyo, Marketo, or Pardot — scoring, nurture flows, segmentation, and CRM sync.",
+            "example": "Activated a stagnant HubSpot for a B2B firm — $0 → $1.8M tracked marketing-attributed pipeline in 90 days."
+          }
+        ]
+      },
+      {
+        "num": "04",
+        "title": "Data &amp; Reporting",
+        "color": "tech",
+        "intro": "Real-time dashboards, database architecture, and analytics infrastructure — turning fragmented data into the decision-grade signal your leadership team needs.",
+        "services": [
+          {
+            "num": "15",
+            "title": "Custom Reporting &amp; BI Dashboards",
+            "description": "Executive dashboards in Looker Studio, Power BI, Tableau, or custom web — built around the decisions that matter, not the data that's easy to export.",
+            "example": "Built a Looker Studio dashboard for an 18-location restaurant group — caught food-cost anomalies 5 days earlier; saved ~$28K/mo."
+          },
+          {
+            "num": "16",
+            "title": "Database Design &amp; Architecture",
+            "description": "PostgreSQL, MongoDB, BigQuery, Snowflake — schema design, indexing, query optimization, migration, and DR architecture.",
+            "example": "Optimized database for a SaaS analytics platform — load times 18–45s → under 2s; annual churn 35% → 18%."
+          },
+          {
+            "num": "17",
+            "title": "Analytics &amp; Tracking Implementation",
+            "description": "GA4, GTM, Meta and TikTok Pixel, server-side tracking, and Conversions API — so your ad platforms train on accurate signals.",
+            "example": "Server-side tracking rebuild for an e-comm brand — conversion data completeness 40% → 94%; CPA −31% in 6 weeks."
+          }
+        ]
+      },
+      {
+        "num": "05",
+        "title": "Contact Center &amp; Hosting",
+        "color": "tech",
+        "intro": "Cloud contact center setup, VoIP and telephony, plus ongoing managed hosting and maintenance — the infrastructure that keeps the business running 24/7.",
+        "services": [
+          {
+            "num": "18",
+            "title": "Contact Center Software Setup",
+            "description": "Five9, Genesys, Aircall, Twilio Flex, RingCentral — IVR design, routing, scripting, recording, supervision dashboards, and CRM integration.",
+            "example": "Reconfigured Aircall for a pest-control company — abandon rate 28% → 6%; average handle time −22%."
+          },
+          {
+            "num": "19",
+            "title": "VoIP &amp; Telephony Implementation",
+            "description": "Cloud VoIP system design — number provisioning, SIP trunks, call queues, ring groups, IVR, and CRM integration with zero-downtime migration.",
+            "example": "Migrated a 200-unit property management company from legacy PBX to cloud VoIP over one weekend — zero downtime; 30% time-on-call reduction."
+          },
+          {
+            "num": "20",
+            "title": "Software Maintenance, Support &amp; Hosting",
+            "description": "Ongoing managed hosting, security patching, dependency updates, performance monitoring, and SLA-backed bug resolution.",
+            "example": "Patched two high-severity vulnerabilities for a healthcare client — prevented estimated $500K–$1M HIPAA exposure."
+          }
+        ]
+      },
+      {
+        "num": "01",
+        "title": "Inbound &amp; Reception",
+        "color": "dispatch",
+        "intro": "Trained agents handling every inbound interaction — first impression, qualification, escalation, multilingual coverage, and white-glove VIP handling.",
+        "services": [
+          {
+            "num": "01",
+            "title": "Inbound Call Handling &amp; Reception",
+            "description": "Live agents answering in your brand voice — handling inquiries, routing to the right team, capturing data with real-time CRM logging.",
+            "example": "Inbound agents for a Miami luxury hotel recovered ~$82K/month in direct booking inquiries previously lost to voicemail."
+          },
+          {
+            "num": "02",
+            "title": "24/7 After-Hours Answering",
+            "description": "Live or AI agents covering nights, weekends, holidays — taking messages, handling urgent inquiries, and triggering on-call escalations.",
+            "example": "After-hours service for an HVAC company captured $42K/month in emergency revenue previously lost between 6pm–8am."
+          },
+          {
+            "num": "03",
+            "title": "Live Agent Lead Qualification",
+            "description": "Structured qualification at first contact — budget, timeline, fit, authority — only pre-qualified prospects reach your sales team.",
+            "example": "For a solar installer: sales-team capacity effectively doubled; close rate on contacted leads 12% → 28%."
+          },
+          {
+            "num": "04",
+            "title": "Multilingual Inbound Support",
+            "description": "Spanish, French, Portuguese, Mandarin, Arabic, Tagalog, Hindi — native-speaking agents serving callers in their preferred language.",
+            "example": "Spanish-language inbound for an LA dental group — Spanish-speaking new-patient bookings reached 22% of total in 4 months."
+          },
+          {
+            "num": "05",
+            "title": "Escalation &amp; VIP Client Handling",
+            "description": "Senior agents, white-glove protocols, 30-min response SLA, and direct executive escalation paths for your highest-value accounts.",
+            "example": "VIP protocol for a property mgmt firm protecting $3.2M of $4.8M ARR — zero Tier-1 churn over 18 months."
+          }
+        ]
+      },
+      {
+        "num": "02",
+        "title": "AI Voice Agents",
+        "color": "dispatch",
+        "intro": "Always-on voice AI that handles triage, booking, and outbound follow-up — picking up every call instantly, no matter the volume or hour.",
+        "services": [
+          {
+            "num": "06",
+            "title": "AI Voice — Inbound Triage",
+            "description": "Always-on AI that answers every call instantly, understands intent via NLP, resolves routine queries, and routes complex calls with full context.",
+            "example": "AI triage for a national insurance brokerage — hold time 8min → 2min; abandon rate 22% → 4%; agent capacity +23%."
+          },
+          {
+            "num": "07",
+            "title": "AI Voice — Appointment Booking",
+            "description": "Fully automated booking, confirming, rescheduling, and canceling — integrated with your scheduling platform, working 24/7.",
+            "example": "Booking AI for a multi-location physio practice — handled 79% of booking calls; weekend missed-calls fell to zero."
+          },
+          {
+            "num": "08",
+            "title": "AI Voice — Outbound Follow-Up",
+            "description": "AI-powered outbound calling at scale — lead follow-up, appointment confirmations, post-service surveys, and reactivation campaigns.",
+            "example": "AI outbound for a roofing company — every uncontacted lead reached within 4 hours; inspection bookings +187% month one."
+          }
+        ]
+      },
+      {
+        "num": "03",
+        "title": "Outbound &amp; Sales",
+        "color": "dispatch",
+        "intro": "Live agents executing the high-conversion outbound work that closes the gap between leads generated and revenue booked.",
+        "services": [
+          {
+            "num": "09",
+            "title": "Live Quote Generation &amp; Estimation",
+            "description": "Trained agents quoting in real-time over the phone — collecting job details, calculating to your pricing model, booking the next step before they hang up.",
+            "example": "Quote agents for a landscaper — average time-to-quote 31hrs → 15min; inquiry-to-booking 28% → 51%."
+          },
+          {
+            "num": "10",
+            "title": "Outbound Follow-Up &amp; Lead Nurture",
+            "description": "Structured 5-touch outbound sequences — phone, voicemail, scripted persistence — closing the gap between leads generated and leads contacted.",
+            "example": "Auto body shop: web lead-to-job conversion 21% → 47%; +$39K/month from same lead volume."
+          },
+          {
+            "num": "11",
+            "title": "Customer Satisfaction &amp; Callback Surveys",
+            "description": "Post-service CSAT/NPS calls — flagging unhappy customers for recovery and routing happy ones to review generation.",
+            "example": "Pool service company: Google rating 3.8★/42 reviews → 4.6★/180 reviews in 6 months; monthly churn 14% → 8%."
+          },
+          {
+            "num": "12",
+            "title": "Sales Closing &amp; Upsell Calls",
+            "description": "Senior closing agents handling the proposal-to-commitment stage — structured objection handling, tiered packages, and trained negotiation.",
+            "example": "Closing agents for a high-end kitchen renovation co. — proposal close rate 12% → 27% in 8 weeks."
+          }
+        ]
+      },
+      {
+        "num": "04",
+        "title": "Scheduling &amp; Field Dispatch",
+        "color": "dispatch",
+        "intro": "Real-time coordination between customers, schedules, and field technicians — keeping fleets at 90% capacity and customers informed every step.",
+        "services": [
+          {
+            "num": "13",
+            "title": "Appointment Booking &amp; Scheduling",
+            "description": "Live or AI booking with calendar sync, automated confirmations, reminder sequences, and no-show prevention protocols.",
+            "example": "Mobile dog grooming co. — no-show rate 18% → 4%; zero double-bookings in 12 months."
+          },
+          {
+            "num": "14",
+            "title": "Technician Dispatch &amp; Coordination",
+            "description": "Real-time field dispatch — assigning by location, skill, and equipment with live ETA communication and dynamic re-routing.",
+            "example": "Electrical contractor (22 techs) — unproductive travel 28mi → 11mi/tech/day; ~$4,200/wk fuel + 18 service-hours/day."
+          },
+          {
+            "num": "15",
+            "title": "Field Service Job Management",
+            "description": "Digital job cards, tech briefings, parts ordering, photo documentation, completion sign-off, and automatic invoice triggering.",
+            "example": "Commercial HVAC service co. — invoice cycle 12 days → 24 hrs; +$18.4K/mo in previously-unbilled extras."
+          },
+          {
+            "num": "16",
+            "title": "Emergency &amp; Priority Dispatch",
+            "description": "Rapid-response dispatch with severity triage, nearest-tech routing, on-call coordination, and SLA-tracked response time reporting.",
+            "example": "Plumbing company: emergency response 94min → 52min; emergency-to-recurring conversion 28% → 61%."
+          }
+        ]
+      },
+      {
+        "num": "05",
+        "title": "Quality &amp; Operations",
+        "color": "dispatch",
+        "intro": "The infrastructure layer — chat, QA monitoring, post-call admin, and complete operational design — that keeps every contact at consistent quality.",
+        "services": [
+          {
+            "num": "17",
+            "title": "Live Chat &amp; SMS Support",
+            "description": "Human agents managing website chat and business SMS — pre-sales, support, booking confirmations, with consistent brand tone.",
+            "example": "Landscaping company chat agents 7am–9pm — lead capture from same site traffic +330%."
+          },
+          {
+            "num": "18",
+            "title": "Call Recording, Monitoring &amp; QA",
+            "description": "Recording, real-time monitoring, structured QA scoring, compliance documentation, and weekly performance coaching.",
+            "example": "Caught a regulatory exposure of $2.4M for a financial services co. within 10 days of QA program launch."
+          },
+          {
+            "num": "19",
+            "title": "CRM Data Entry &amp; Post-Call Admin",
+            "description": "Standardized post-call logging, contact-record updates, follow-up task creation, and CRM hygiene across every interaction.",
+            "example": "Home warranty co. — CRM completeness 18% → 94% in 60 days; agent follow-up conversion +31%."
+          },
+          {
+            "num": "20",
+            "title": "Custom Dispatch Workflow Design",
+            "description": "Complete operational architecture — scripts, routing logic, escalation trees, training, and QA rubrics — delivered turnkey.",
+            "example": "Pest control franchise: 4 new locations launched with day-one quality scores matching 3-year-old legacy locations."
+          }
+        ]
+      }
+    ]
+  },
+  "dispatch": {
+    "blurb": "Twenty live and AI-powered dispatch services — the human-and-machine front line that turns inbound interest into booked revenue. Inbound, outbound, AI voice, scheduling, and quality operations — running 24/7 across every brand we operate.",
+    "categories": [
+      {
+        "num": "01",
+        "title": "Inbound &amp; Reception",
+        "color": "dispatch",
+        "intro": "Trained agents handling every inbound interaction — first impression, qualification, escalation, multilingual coverage, and white-glove VIP handling.",
+        "services": [
+          {
+            "num": "01",
+            "title": "Inbound Call Handling &amp; Reception",
+            "description": "Live agents answering in your brand voice — handling inquiries, routing to the right team, capturing data with real-time CRM logging.",
+            "example": "Inbound agents for a Miami luxury hotel recovered ~$82K/month in direct booking inquiries previously lost to voicemail."
+          },
+          {
+            "num": "02",
+            "title": "24/7 After-Hours Answering",
+            "description": "Live or AI agents covering nights, weekends, holidays — taking messages, handling urgent inquiries, and triggering on-call escalations.",
+            "example": "After-hours service for an HVAC company captured $42K/month in emergency revenue previously lost between 6pm–8am."
+          },
+          {
+            "num": "03",
+            "title": "Live Agent Lead Qualification",
+            "description": "Structured qualification at first contact — budget, timeline, fit, authority — only pre-qualified prospects reach your sales team.",
+            "example": "For a solar installer: sales-team capacity effectively doubled; close rate on contacted leads 12% → 28%."
+          },
+          {
+            "num": "04",
+            "title": "Multilingual Inbound Support",
+            "description": "Spanish, French, Portuguese, Mandarin, Arabic, Tagalog, Hindi — native-speaking agents serving callers in their preferred language.",
+            "example": "Spanish-language inbound for an LA dental group — Spanish-speaking new-patient bookings reached 22% of total in 4 months."
+          },
+          {
+            "num": "05",
+            "title": "Escalation &amp; VIP Client Handling",
+            "description": "Senior agents, white-glove protocols, 30-min response SLA, and direct executive escalation paths for your highest-value accounts.",
+            "example": "VIP protocol for a property mgmt firm protecting $3.2M of $4.8M ARR — zero Tier-1 churn over 18 months."
+          }
+        ]
+      },
+      {
+        "num": "02",
+        "title": "AI Voice Agents",
+        "color": "dispatch",
+        "intro": "Always-on voice AI that handles triage, booking, and outbound follow-up — picking up every call instantly, no matter the volume or hour.",
+        "services": [
+          {
+            "num": "06",
+            "title": "AI Voice — Inbound Triage",
+            "description": "Always-on AI that answers every call instantly, understands intent via NLP, resolves routine queries, and routes complex calls with full context.",
+            "example": "AI triage for a national insurance brokerage — hold time 8min → 2min; abandon rate 22% → 4%; agent capacity +23%."
+          },
+          {
+            "num": "07",
+            "title": "AI Voice — Appointment Booking",
+            "description": "Fully automated booking, confirming, rescheduling, and canceling — integrated with your scheduling platform, working 24/7.",
+            "example": "Booking AI for a multi-location physio practice — handled 79% of booking calls; weekend missed-calls fell to zero."
+          },
+          {
+            "num": "08",
+            "title": "AI Voice — Outbound Follow-Up",
+            "description": "AI-powered outbound calling at scale — lead follow-up, appointment confirmations, post-service surveys, and reactivation campaigns.",
+            "example": "AI outbound for a roofing company — every uncontacted lead reached within 4 hours; inspection bookings +187% month one."
+          }
+        ]
+      },
+      {
+        "num": "03",
+        "title": "Outbound &amp; Sales",
+        "color": "dispatch",
+        "intro": "Live agents executing the high-conversion outbound work that closes the gap between leads generated and revenue booked.",
+        "services": [
+          {
+            "num": "09",
+            "title": "Live Quote Generation &amp; Estimation",
+            "description": "Trained agents quoting in real-time over the phone — collecting job details, calculating to your pricing model, booking the next step before they hang up.",
+            "example": "Quote agents for a landscaper — average time-to-quote 31hrs → 15min; inquiry-to-booking 28% → 51%."
+          },
+          {
+            "num": "10",
+            "title": "Outbound Follow-Up &amp; Lead Nurture",
+            "description": "Structured 5-touch outbound sequences — phone, voicemail, scripted persistence — closing the gap between leads generated and leads contacted.",
+            "example": "Auto body shop: web lead-to-job conversion 21% → 47%; +$39K/month from same lead volume."
+          },
+          {
+            "num": "11",
+            "title": "Customer Satisfaction &amp; Callback Surveys",
+            "description": "Post-service CSAT/NPS calls — flagging unhappy customers for recovery and routing happy ones to review generation.",
+            "example": "Pool service company: Google rating 3.8★/42 reviews → 4.6★/180 reviews in 6 months; monthly churn 14% → 8%."
+          },
+          {
+            "num": "12",
+            "title": "Sales Closing &amp; Upsell Calls",
+            "description": "Senior closing agents handling the proposal-to-commitment stage — structured objection handling, tiered packages, and trained negotiation.",
+            "example": "Closing agents for a high-end kitchen renovation co. — proposal close rate 12% → 27% in 8 weeks."
+          }
+        ]
+      },
+      {
+        "num": "04",
+        "title": "Scheduling &amp; Field Dispatch",
+        "color": "dispatch",
+        "intro": "Real-time coordination between customers, schedules, and field technicians — keeping fleets at 90% capacity and customers informed every step.",
+        "services": [
+          {
+            "num": "13",
+            "title": "Appointment Booking &amp; Scheduling",
+            "description": "Live or AI booking with calendar sync, automated confirmations, reminder sequences, and no-show prevention protocols.",
+            "example": "Mobile dog grooming co. — no-show rate 18% → 4%; zero double-bookings in 12 months."
+          },
+          {
+            "num": "14",
+            "title": "Technician Dispatch &amp; Coordination",
+            "description": "Real-time field dispatch — assigning by location, skill, and equipment with live ETA communication and dynamic re-routing.",
+            "example": "Electrical contractor (22 techs) — unproductive travel 28mi → 11mi/tech/day; ~$4,200/wk fuel + 18 service-hours/day."
+          },
+          {
+            "num": "15",
+            "title": "Field Service Job Management",
+            "description": "Digital job cards, tech briefings, parts ordering, photo documentation, completion sign-off, and automatic invoice triggering.",
+            "example": "Commercial HVAC service co. — invoice cycle 12 days → 24 hrs; +$18.4K/mo in previously-unbilled extras."
+          },
+          {
+            "num": "16",
+            "title": "Emergency &amp; Priority Dispatch",
+            "description": "Rapid-response dispatch with severity triage, nearest-tech routing, on-call coordination, and SLA-tracked response time reporting.",
+            "example": "Plumbing company: emergency response 94min → 52min; emergency-to-recurring conversion 28% → 61%."
+          }
+        ]
+      },
+      {
+        "num": "05",
+        "title": "Quality &amp; Operations",
+        "color": "dispatch",
+        "intro": "The infrastructure layer — chat, QA monitoring, post-call admin, and complete operational design — that keeps every contact at consistent quality.",
+        "services": [
+          {
+            "num": "17",
+            "title": "Live Chat &amp; SMS Support",
+            "description": "Human agents managing website chat and business SMS — pre-sales, support, booking confirmations, with consistent brand tone.",
+            "example": "Landscaping company chat agents 7am–9pm — lead capture from same site traffic +330%."
+          },
+          {
+            "num": "18",
+            "title": "Call Recording, Monitoring &amp; QA",
+            "description": "Recording, real-time monitoring, structured QA scoring, compliance documentation, and weekly performance coaching.",
+            "example": "Caught a regulatory exposure of $2.4M for a financial services co. within 10 days of QA program launch."
+          },
+          {
+            "num": "19",
+            "title": "CRM Data Entry &amp; Post-Call Admin",
+            "description": "Standardized post-call logging, contact-record updates, follow-up task creation, and CRM hygiene across every interaction.",
+            "example": "Home warranty co. — CRM completeness 18% → 94% in 60 days; agent follow-up conversion +31%."
+          },
+          {
+            "num": "20",
+            "title": "Custom Dispatch Workflow Design",
+            "description": "Complete operational architecture — scripts, routing logic, escalation trees, training, and QA rubrics — delivered turnkey.",
+            "example": "Pest control franchise: 4 new locations launched with day-one quality scores matching 3-year-old legacy locations."
+          }
+        ]
+      }
+    ]
+  }
+}
