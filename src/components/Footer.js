@@ -18,31 +18,31 @@ export default function Footer() {
           <div className="footer-col">
             <h5>Marketing · 26</h5>
             <ul>
-              <li><a href="/#solutions">Performance &amp; Paid</a></li>
-              <li><a href="/#solutions">AI &amp; Intelligence</a></li>
-              <li><a href="/#solutions">Brand &amp; Creative</a></li>
-              <li><a href="/#solutions">Content &amp; Lifecycle</a></li>
-              <li><a href="/#solutions">Strategy &amp; Consulting</a></li>
+              <li><a href="/#solutions">Performance & Paid</a></li>
+              <li><a href="/#solutions">AI & Intelligence</a></li>
+              <li><a href="/#solutions">Brand & Creative</a></li>
+              <li><a href="/#solutions">Content & Lifecycle</a></li>
+              <li><a href="/#solutions">Strategy & Consulting</a></li>
             </ul>
           </div>
           <div className="footer-col">
             <h5>Technology · 20</h5>
             <ul>
-              <li><a href="/#solutions">Web &amp; App Development</a></li>
-              <li><a href="/#solutions">AI &amp; Automation</a></li>
-              <li><a href="/#solutions">CRM &amp; Integrations</a></li>
-              <li><a href="/#solutions">Data &amp; Reporting</a></li>
+              <li><a href="/#solutions">Web & App Development</a></li>
+              <li><a href="/#solutions">AI & Automation</a></li>
+              <li><a href="/#solutions">CRM & Integrations</a></li>
+              <li><a href="/#solutions">Data & Reporting</a></li>
               <li><a href="/#solutions">Contact Center Tech</a></li>
             </ul>
           </div>
           <div className="footer-col">
             <h5>Dispatch · 20</h5>
             <ul>
-              <li><a href="/#solutions">Inbound &amp; Reception</a></li>
+              <li><a href="/#solutions">Inbound & Reception</a></li>
               <li><a href="/#solutions">AI Voice Agents</a></li>
-              <li><a href="/#solutions">Outbound &amp; Sales</a></li>
-              <li><a href="/#solutions">Scheduling &amp; Field</a></li>
-              <li><a href="/#solutions">Quality &amp; Operations</a></li>
+              <li><a href="/#solutions">Outbound & Sales</a></li>
+              <li><a href="/#solutions">Scheduling & Field</a></li>
+              <li><a href="/#solutions">Quality & Operations</a></li>
             </ul>
           </div>
           <div className="footer-col">

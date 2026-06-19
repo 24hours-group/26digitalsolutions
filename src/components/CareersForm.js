@@ -137,7 +137,7 @@ export default function CareersForm() {
               </div>
               <div className="careers-role">
                 <span className="n">03</span>
-                <span className="t">Dispatch &amp; Operations Agents</span>
+                <span className="t">Dispatch & Operations Agents</span>
                 <span className="d">
                   Bilingual, calm under pressure, and obsessed with conversion. The voice and judgment our clients hear when it
                   matters most.
@@ -145,7 +145,7 @@ export default function CareersForm() {
               </div>
               <div className="careers-role">
                 <span className="n">04</span>
-                <span className="t">Strategists &amp; Consultants</span>
+                <span className="t">Strategists & Consultants</span>
                 <span className="d">
                   Revenue-obsessed operators who can design a GTM at 9am and present it to a CFO at 2pm.
                 </span>
@@ -222,9 +222,9 @@ export default function CareersForm() {
                     <option>SEO / Content</option>
                     <option>AI / ML Engineering</option>
                     <option>Software Engineering</option>
-                    <option>Brand &amp; Creative</option>
-                    <option>Dispatch &amp; Contact Center</option>
-                    <option>Strategy &amp; Consulting</option>
+                    <option>Brand & Creative</option>
+                    <option>Dispatch & Contact Center</option>
+                    <option>Strategy & Consulting</option>
                     <option>Other</option>
                   </select>
                 </div>

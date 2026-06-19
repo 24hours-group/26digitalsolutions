@@ -97,7 +97,7 @@ export default function Solutions() {
                         aria-expanded={isOpen}
                         onClick={() => toggleAccordion(divKey, catIndex)}
                       >
-                        <span className="cat-num">{category.num}</span>
+                        <span className="cat-num">{String(catIndex + 1).padStart(2, '0')}</span>
                         <span className="cat-title">{category.title}</span>
                         <span className="cat-count">{category.services.length} services</span>
                         <span className="cat-toggle" aria-hidden="true">

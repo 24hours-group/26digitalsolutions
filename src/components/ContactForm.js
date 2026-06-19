@@ -164,7 +164,7 @@ export default function ContactForm() {
               </div>
               <div className="form-row">
                 <div className="form-field full">
-                  <label htmlFor="c-company">Company &amp; role</label>
+                  <label htmlFor="c-company">Company & role</label>
                   <input
                     type="text"
                     id="c-company"
